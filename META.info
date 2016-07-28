@@ -1,0 +1,11 @@
+{
+    "name"        : "Math::Arrow",
+    "version"     : "0.1.0",
+    "description" : "Knuth arrow notation in Perl 6",
+    "depends"     : [],
+    "provides" : {
+        "Math::Arrow" : "lib/Math/Arrow.pm",
+    },
+    "source-type"   : "git",
+    "source-url"    : "git://github.com/ajs/perl6-Math-Arrow"
+}
